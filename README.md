@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I'm a passionate developer who is fond of turning ideas and reality. Over the past few years, I've gained experience as a full-stack developer by working on projects and being able to make elegant front-end websites with immense features. 
+I'm a passionate developer who is fond of turning ideas into reality. Over the past few years, I've gained experience as a full-stack developer by working on projects and being able to make elegant front-end websites with immense features. 
 
 I have intermediate knowledge about Webhosting and experience in efficient and effective email marketing. I'm also a cybersecurity security enthusiast constantly trying to learn more in this domain. Also, a proud cryptocurrency enthusiast who has been in the space since 2017.  
   

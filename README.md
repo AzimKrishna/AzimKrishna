@@ -100,4 +100,4 @@ I have intermediate knowledge about Webhosting and experience in efficient and e
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+

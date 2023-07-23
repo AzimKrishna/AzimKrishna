@@ -29,13 +29,13 @@ I have intermediate knowledge about Webhosting and experience in efficient and e
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Online tuition management system.  
+- 🔭 I’m currently working on building my own online tuition platform.  
   
 
 - 🌱 I’m currently learning Android development (Wear OS) and Java.  
   
 
-- ❓ Ask me about anything related to web development, web hosting, cryptocurrencies and email marketing  
+- ❓ Ask me about anything related to web development, web hosting, cryptocurrencies, and email marketing.
   
 
 - 📫 How to reach me azimbaji19@gmail.com  

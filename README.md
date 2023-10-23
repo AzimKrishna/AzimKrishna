@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/abkrishna" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/the__evil_p.i.x.e.l" target="_blank">
+<a href="https://www.instagram.com/azimkrishna" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/AzimKrishna" target="_blank">

@@ -32,7 +32,7 @@ I have intermediate knowledge about Webhosting and experience in efficient and e
 - 🔭 I’m currently working on building my own online tuition platform.  
   
 
-- 🌱 I’m currently learning Android development (Wear OS), Java, and Solidity.  
+- 🌱 I’m currently learning Android development (Wear OS)- Kotlin and ReactJS.  
   
 
 - ❓ Ask me about anything related to web development, web hosting, cryptocurrencies, and email marketing.

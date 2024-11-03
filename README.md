@@ -18,9 +18,9 @@
 
 
 ### Glad to see you here!  
-I'm a passionate developer who is fond of turning ideas into reality. Over the past few years, I've gained experience as a full-stack developer by working on projects and being able to make elegant front-end websites with immense features. 
+I'm a passionate developer who thrives on turning ideas into reality and tackling real-world problems with innovative solutions. As a full-stack developer, I excel in both frontend and backend, creating scalable applications that are both functional and beautifully designed.
 
-I have intermediate knowledge about Webhosting and experience in efficient and effective email marketing. I'm also a cybersecurity security enthusiast constantly trying to learn more in this domain. Also, a proud cryptocurrency enthusiast who has been in the space since 2017.  
+With knowledge of AWS and web hosting, along with experience in effective email marketing, I bring a comprehensive approach to development. I'm also a cybersecurity enthusiast, always eager to deepen my understanding, and have been an active cryptocurrency enthusiast since 2017.
   
 
 <br/>  
@@ -79,7 +79,6 @@ I have intermediate knowledge about Webhosting and experience in efficient and e
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="60" /></a>  
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="60"></a>
 <a href="https://ipfs.tech/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" alt="IPFS" height="60" /></a> 
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="60" /></a>  
 </div>  
 
 <br/>  

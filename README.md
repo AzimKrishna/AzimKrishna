@@ -1,29 +1,36 @@
-## Hey 👋, I'm Azim Baji Krishna!  
-  
+<h1 align="center">Hey 👋, I'm Azim Baji Krishna</h1>
 
-<a href="https://twitter.com/crypto_hades_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/abkrishna" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/azimkrishna" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/AzimKrishna" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
+<p align="center">
+  <a href="https://twitter.com/crypto_hades_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abkrishna" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AzimKrishna" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/azimkrishna" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:azimbaji19@gmail.com"><b>azimbaji19@gmail.com</b></a>
+</p>
 
 
+## What I Do
+I’m a full-stack software dev who ships **scalable apps**, squeezes **milliseconds** out of **performance**, and builds **automations** that save teams real hours.
 
-### Glad to see you here!  
-I'm a passionate developer who thrives on turning ideas into reality and tackling real-world problems with innovative solutions. As a full-stack developer, I excel in both frontend and backend, creating scalable applications that are both functional and beautifully designed.
+- 🟢 Built a **WhatsApp CRM + booking bot** hitting **₹12L+** sales in < 8 months (real-time messaging, workflows, lead capture).
+- 💸 Replaced pricey SaaS with custom scripts, saving **₹3.5L+ / year** across clients.
+- ⚡ Took a Shopify product page from **4 → 48** on mobile PageSpeed (LCP: **17s → 6s**, FCP: **4.1s → 2s**).
+- 🧩 Designed a dynamic pricing calendar (18+ locations) cutting maintenance time by **~75%**.
+- 🛡️ Secured an e-com stack, restoring daily sales from **₹43K → ₹1.2L** and reducing downtime.
+- ⛓️ Published **Authentix** (blockchain ID verification) → **journal publication + copyright**.
 
-With knowledge of AWS and web hosting, along with experience in effective email marketing, I bring a comprehensive approach to development. I'm also a cybersecurity enthusiast, always eager to deepen my understanding, and have been an active cryptocurrency enthusiast since 2017.
-  
-
-<br/>  
+---
 
 
 ## Rapidfire  
@@ -32,10 +39,10 @@ With knowledge of AWS and web hosting, along with experience in effective email 
 - 🔭 I’m currently working on building my own online tuition platform.  
   
 
-- 🌱 I’m currently learning Android development (Wear OS)- Kotlin.  
+- 🌱 Building SaaS for ticketing & CRM on WhatsApp Cloud API with microservices (Vue + Laravel + Node + PostgreSQL + MongoDB).
   
 
-- ❓ Ask me about anything related to web development, web hosting, cryptocurrencies, and email marketing.
+- ❓ Ask me about anything related to web apps, software dev, APIs, e-commerce perf, automation, crypto/web3.
   
 
 - 📫 How to reach me azimbaji19@gmail.com  
@@ -83,6 +90,15 @@ With knowledge of AWS and web hosting, along with experience in effective email 
 
 <br/>  
 
+---
+
+## Notable Wins (Dev Impact)
+- 43,600+ WhatsApp leads captured for bookings via automated flows.  
+- ~2% chatbot conversion; ~₹40K weekly revenue via bot-assisted bookings.  
+- PageSpeed: mobile from **4 → 48**, LCP **17s → 6s**, FCP **4.1s → 2s**.  
+- Automation of payment status updates → **500+ hours/year** saved.
+
+---
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">

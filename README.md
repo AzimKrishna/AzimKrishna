@@ -103,11 +103,19 @@ I’m a full-stack software dev who ships **scalable apps**, squeezes **millisec
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=azimkrishna&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img
+  src="https://github-readme-stats-alpha-mocha-56.vercel.app/api?username=azimkrishna&show_icons=true&count_private=true&hide_border=true&theme=github_dark"
+  align="left"
+  style="width: 100%"
+/>
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azimkrishna&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img
+  src="https://github-readme-stats-alpha-mocha-56.vercel.app/api/top-langs/?username=azimkrishna&hide_border=true&layout=compact&theme=github_dark"
+  align="left"
+  style="width: 100%"
+/>
 
 </td></tr></table>  
 

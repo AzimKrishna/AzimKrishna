@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Azim Baji Krishna</h1>
 
 <p align="center">
-  <a href="https://twitter.com/crypto_hades_" target="_blank">
+  <a href="https://twitter.com/AzimKrishna" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/abkrishna" target="_blank">

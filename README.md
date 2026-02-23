@@ -103,8 +103,7 @@ I’m a full-stack software dev who ships **scalable apps**, squeezes **millisec
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img
-  src="https://github-readme-stats-alpha-mocha-56.vercel.app/api?username=azimkrishna&show_icons=true&count_private=true&hide_border=true&theme=github_dark"
+<img src="https://github-readme-stats-alpha-mocha-56.vercel.app/api?username=azimkrishna&show_icons=true&count_private=true&hide_border=true&theme=github_dark&cache_seconds=86400&v=1"
   align="left"
   style="width: 100%"
 />
@@ -112,7 +111,7 @@ I’m a full-stack software dev who ships **scalable apps**, squeezes **millisec
 </td><td valign="top" width="50%">
 
 <img
-  src="https://github-readme-stats-alpha-mocha-56.vercel.app/api/top-langs/?username=azimkrishna&hide_border=true&layout=compact&theme=github_dark"
+  src="https://github-readme-stats-alpha-mocha-56.vercel.app/api/top-langs/?username=azimkrishna&hide_border=true&layout=compact&theme=github_dark&cache_seconds=86400&v=1"
   align="left"
   style="width: 100%"
 />
